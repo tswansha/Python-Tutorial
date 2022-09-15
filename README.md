@@ -1,7 +1,9 @@
 # Python-Tutorial Django for windows (Instruction guide)
 
 These sessions are inspired and created using folowing refernce materials [^1]
-## Session 1 Initial Setup
+## Session 1 
+
+###Initial Setup
 
 1. Place your working folder is in convenient location name it DjangoProject.
     - *C:\Users\dell\Desktop\Python_Tutorial\Django Tutorial*.
@@ -55,14 +57,16 @@ These sessions are inspired and created using folowing refernce materials [^1]
 15. Go to application folder our example **pages** go to view.py and add below new lines   
     - Add Image later.
 
-15. Create new file name urls.py in **pages** folder  and add below lines 
+16. Create new file name urls.py in **pages** folder  and add below lines 
     - Add Image Later.
 
-15. Modify **django_project** project file urls.py file as below  
+17. Modify **django_project** project file urls.py file as below  
     - Add Image Later.
 
-15. Enter below command to get rid of pesky error message below 
-    - *python manage.py migrate*.
+18. You are all set to run the app you can run that typing following command to cmd and you will not received error messages like before 
+    - *python manage.py runserver*
+    - Inser Image Later
 
-15. Enter below command to get rid of pesky error message below 
-    - *python manage.py migrate*.
+
+19. launch your browser and type 127.0.0.1:8000 or localhost:8000 and check below page is launch 
+    - *Will insert Image Later*
