@@ -7,3 +7,9 @@ These sessions are inspired and created using folowing refernce materials [^1]
      _  *C:\Users\dell\Desktop\Python_Tutorial\Django Tutorial*.
 2. Install virtual environment with prefferd name. 
      _  *python -m venv pythontutorial*.
+1. First item
+2. Second item
+3. Third item
+    - Indented item
+    - Indented item
+4. Fourth item
