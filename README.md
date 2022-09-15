@@ -9,7 +9,7 @@ These sessions are inspired and created using folowing refernce materials [^1]
      _  *python -m venv pythontutorial*.
 1. First item
 2. Second item
-3. Third item
-    - Indented item
+3. Place your working folder is in convenient location name it DjangoProject.
+    - *C:\Users\dell\Desktop\Python_Tutorial\Django Tutorial*.
     - Indented item
 4. Fourth item
