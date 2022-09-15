@@ -12,9 +12,9 @@ These sessions are inspired and created using folowing refernce materials [^1]
 4. Activate virtual Environment by entering below command on powershell
     - *.\chapter1\Scripts\Activate.ps*.
 5. Do not go inside virtual environment and install Django using following Command
-    - *python -m pip install django ~=4.1.1 **Latest version** *.
+    - *python -m pip install django ~=4.1.1 (Latest version) *.
 6. Create Django Project I use name django_project 
-    - *django-admin startproject django_project . ***Do not forget space and dot after command ****.
+    - *django-admin startproject django_project . (Do not forget space and dot after command)*.
 7. Activate virtual Environment by entering below command on powershell
     - *.\chapter1\Scripts\Activate.ps*.
 8. Activate virtual Environment by entering below command on powershell
