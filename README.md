@@ -1,6 +1,7 @@
 # Python-Tutorial Django for windows (Instruction guide)
 
 These sessions are inspired and created using folowing refernce materials [^1]
+These are for my students for refer them when they needed and I would like you to play around with these instrctions 
 ## Session 1 
 
 ### Initial Setup of Project and App
