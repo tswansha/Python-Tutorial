@@ -49,8 +49,7 @@ These sessions are inspired and created using folowing refernce materials [^1]
 13. Lets create our first Django app I choose pages   
     - *python manage.py startapp pages*.
 
-14. You need to go to project folder which is in our example 15. Enter below command to get rid of pesky error message below 
-    - *python manage.py migrate*. go to settings.py file and add following new line   
+14. You need to go to project folder which is in our example **django_projects** go to settings.py file and add following new line   
     - Add Image Later.
 
 15. Go to application folder our example **pages** go to view.py and add below new lines   
