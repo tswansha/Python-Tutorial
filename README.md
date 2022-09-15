@@ -28,14 +28,42 @@ These sessions are inspired and created using folowing refernce materials [^1]
 
 7. You are all set to run the project you can run that typing following command to cmd or powershell ignore any error message for now
     - *python manage.py runserver*
+    - Inser Image Later
 
 
 8. launch your browser and type 127.0.0.1:8000 or localhost:8000 and check below page is launch 
+    - *Will insert Image Later*
+
+9. To Exit press Ctrl+C
     - *.\chapter1\Scripts\Activate.ps*.
 
-8. Activate virtual Environment by entering below command on powershell
-    - *.\chapter1\Scripts\Activate.ps*.
+10. Enter below command to get rid of pesky error messages 
+    - *python manage.py migrate*.
 
-8. Activate virtual Environment by entering below command on powershell
-    - *.\chapter1\Scripts\Activate.ps*.
+11. After that your folder must be like this  
+    - Add image of old folder .
+    - Add image of new folder .
 
+12. You have created your web project it could contain multiple apps   
+
+13. Lets create our first Django app I choose pages   
+    - *python manage.py startapp pages*.
+
+14. You need to go to project folder which is in our example 15. Enter below command to get rid of pesky error message below 
+    - *python manage.py migrate*. go to settings.py file and add following new line   
+    - Add Image Later.
+
+15. Go to application folder our example **pages** go to view.py and add below new lines   
+    - Add Image later.
+
+15. Create new file name urls.py in **pages** folder  and add below lines 
+    - Add Image Later.
+
+15. Modify **django_project** project file urls.py file as below  
+    - Add Image Later.
+
+15. Enter below command to get rid of pesky error message below 
+    - *python manage.py migrate*.
+
+15. Enter below command to get rid of pesky error message below 
+    - *python manage.py migrate*.
