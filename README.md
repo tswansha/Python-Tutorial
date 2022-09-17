@@ -35,7 +35,7 @@ These are short notes for my students when they needed other notes are in progre
 
 
 8. launch your browser and type 127.0.0.1:8000 or localhost:8000 and check below page is launch 
-    - *Will insert Image Later*
+    - ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 9. To Exit press Ctrl+C
     - *.\chapter1\Scripts\Activate.ps*.
