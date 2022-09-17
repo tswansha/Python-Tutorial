@@ -35,7 +35,7 @@ These are short notes for my students when they needed other notes are in progre
 
 
 8. launch your browser and type 127.0.0.1:8000 or localhost:8000 and check below page is launch 
-    - ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+    - ![Inital Launch](https://github.com/tswansha/GitHubImageCollection/blob/ec8a680efe20d94b3e4ac66341d73012eaac354b/Django%20initial%20project.PNG)
 
 9. To Exit press Ctrl+C
     - *.\chapter1\Scripts\Activate.ps*.
